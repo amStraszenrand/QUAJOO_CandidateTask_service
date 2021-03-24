@@ -59,7 +59,7 @@ def addCity(response):
 
 class FalconWebService(object):
 
-    foldername = "./Service/"
+    foldername = "./app/"
     filename = "preconfiguredCities"
 
     def on_get(self, request, response):
