@@ -1,0 +1,53 @@
+[
+    {
+        "lfdNr" : 1,
+        "id" : 6548737,
+        "name" : "Leipzig"
+    },
+    {
+        "lfdNr" : 2,
+        "id" : 1275339,
+        "name" : "Mumbai"
+    },
+    {
+        "lfdNr" : 3,
+        "id" : 3172394,
+        "name" : "Napoli"
+    },
+    {
+        "lfdNr" : 4,
+        "id" : 1853909,
+        "name" : "Osaka"
+    },
+    {
+        "lfdNr" : 5,
+        "id" : 3088171,
+        "name" : "Poznań"
+    },
+    {
+        "lfdNr" : 6,
+        "id" : 6325494,
+        "name" : "Québec"
+    },
+    {
+        "lfdNr" : 7,
+        "id" : 3413829,
+        "name" : "Reykjavík"
+    },
+    {
+        "lfdNr" : 8,
+        "id" : 3110044,
+        "name" : "San Sebastián"
+    },
+    {
+        "lfdNr" : 9,
+        "id" : 6453316,
+        "name" : "Tromsø"
+    },
+    {
+        "lfdNr" : 10,
+        "id" : 2666218,
+        "name" : "Uppsala"
+    }
+]
+
